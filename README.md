@@ -1,7 +1,7 @@
 # Nmap SYE Tool
 
 An nmap scan tool with advanced shortcuts and Turkish language support
-![Theme](https://ibb.co/6cQqMT8N))
+<a href="https://ibb.co/6cQqMT8N"><img src="https://i.ibb.co/XfHGQKDV/theme.png" alt="theme" border="0"></a>
 
 ## Setup
 ```bash
